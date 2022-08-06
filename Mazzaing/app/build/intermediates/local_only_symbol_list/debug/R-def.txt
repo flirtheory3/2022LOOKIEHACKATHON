@@ -55,7 +55,6 @@ id koreanFoodButton
 id kyeongki_btn
 id kyeongsang_btn
 id lists
-id matTextHomeButtonLocation
 id matTextHomeButtonMain
 id mazzainglogo
 id seoul_btn
