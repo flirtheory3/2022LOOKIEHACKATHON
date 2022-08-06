@@ -2608,6 +2608,7 @@ id antiClockwise
 id anticipate
 id arc
 id asConfigured
+id asianFoodButton
 id async
 id auto
 id autoComplete
@@ -2640,12 +2641,14 @@ id chain2
 id chains
 id checkbox
 id checked
+id chineseFoodButton
 id chip
 id chip1
 id chip2
 id chip3
 id chip_group
 id chronometer
+id chungcheong_btn
 id circle_center
 id clear_text
 id clip_horizontal
@@ -2680,6 +2683,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dessertButton
 id dialog_button
 id dimensions
 id direct
@@ -2731,6 +2735,7 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
+id gangwon_btn
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2763,8 +2768,13 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id jeju_btn
+id jeonla_btn
 id jumpToEnd
 id jumpToStart
+id koreanFoodButton
+id kyeongki_btn
+id kyeongsang_btn
 id labeled
 id layout
 id left
@@ -2776,7 +2786,8 @@ id linear
 id listMode
 id list_item
 id masked
-id matTextHomeButton
+id matTextHomeButtonLocation
+id matTextHomeButtonMain
 id match_constraint
 id match_parent
 id material_clock_display
@@ -2917,6 +2928,7 @@ id sin
 id skipCollapsed
 id skipped
 id slide
+id snack_barButton
 id snackbar_action
 id snackbar_text
 id snap
@@ -3009,6 +3021,7 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
+id westernFoodButton
 id withText
 id withinBounds
 id wrap

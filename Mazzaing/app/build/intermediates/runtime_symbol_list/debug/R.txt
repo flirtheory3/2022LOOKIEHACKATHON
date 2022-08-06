@@ -2607,6 +2607,7 @@ int id antiClockwise 0x7f08004e
 int id anticipate 0x7f08004f
 int id arc 0x7f080050
 int id asConfigured 0x7f080051
+int id asianFoodButton 0x7f0801eb
 int id async 0x7f080052
 int id auto 0x7f080053
 int id autoComplete 0x7f080054
@@ -2639,12 +2640,14 @@ int id chain2 0x7f08006e
 int id chains 0x7f08006f
 int id checkbox 0x7f080070
 int id checked 0x7f080071
+int id chineseFoodButton 0x7f0801ec
 int id chip 0x7f080072
 int id chip1 0x7f080073
 int id chip2 0x7f080074
 int id chip3 0x7f080075
 int id chip_group 0x7f080076
 int id chronometer 0x7f080077
+int id chungcheong_btn 0x7f0801ed
 int id circle_center 0x7f080078
 int id clear_text 0x7f080079
 int id clip_horizontal 0x7f08007a
@@ -2679,6 +2682,7 @@ int id design_menu_item_action_area 0x7f080096
 int id design_menu_item_action_area_stub 0x7f080097
 int id design_menu_item_text 0x7f080098
 int id design_navigation_view 0x7f080099
+int id dessertButton 0x7f0801ee
 int id dialog_button 0x7f08009a
 int id dimensions 0x7f08009b
 int id direct 0x7f08009c
@@ -2730,6 +2734,7 @@ int id forever 0x7f0800c9
 int id fragment_container_view_tag 0x7f0800ca
 int id frost 0x7f0800cb
 int id fullscreen_header 0x7f0800cc
+int id gangwon_btn 0x7f0801ef
 int id ghost_view 0x7f0800cd
 int id ghost_view_holder 0x7f0800ce
 int id gone 0x7f0800cf
@@ -2762,8 +2767,13 @@ int id item2 0x7f0800e9
 int id item3 0x7f0800ea
 int id item4 0x7f0800eb
 int id item_touch_helper_previous_elevation 0x7f0800ec
+int id jeju_btn 0x7f0801f0
+int id jeonla_btn 0x7f0801f1
 int id jumpToEnd 0x7f0800ed
 int id jumpToStart 0x7f0800ee
+int id koreanFoodButton 0x7f0801f2
+int id kyeongki_btn 0x7f0801f3
+int id kyeongsang_btn 0x7f0801f4
 int id labeled 0x7f0800ef
 int id layout 0x7f0800f0
 int id left 0x7f0800f1
@@ -2775,7 +2785,8 @@ int id linear 0x7f0800f6
 int id listMode 0x7f0800f7
 int id list_item 0x7f0800f8
 int id masked 0x7f0800f9
-int id matTextHomeButton 0x7f0800fa
+int id matTextHomeButtonLocation 0x7f0801f5
+int id matTextHomeButtonMain 0x7f0801f6
 int id match_constraint 0x7f0800fb
 int id match_parent 0x7f0800fc
 int id material_clock_display 0x7f0800fd
@@ -2916,6 +2927,7 @@ int id sin 0x7f080183
 int id skipCollapsed 0x7f080184
 int id skipped 0x7f080185
 int id slide 0x7f080186
+int id snack_barButton 0x7f0801f7
 int id snackbar_action 0x7f080187
 int id snackbar_text 0x7f080188
 int id snap 0x7f080189
@@ -3008,6 +3020,7 @@ int id view_tree_view_model_store_owner 0x7f0801df
 int id visible 0x7f0801e0
 int id visible_removing_fragment_view_tag 0x7f0801e1
 int id west 0x7f0801e2
+int id westernFoodButton 0x7f0801f8
 int id withText 0x7f0801e3
 int id withinBounds 0x7f0801e4
 int id wrap 0x7f0801e5
