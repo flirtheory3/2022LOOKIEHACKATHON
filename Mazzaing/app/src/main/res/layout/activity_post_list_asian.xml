@@ -53,12 +53,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/tunaimg"/>
-            <ImageView
+            <TextView
                 android:layout_gravity="bottom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:src="@drawable/tunatext"/>
+                android:text="아시아를\n느껴볼까요?"
+                android:textColor="@color/white"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
         </FrameLayout>
 
         <ListView

@@ -2442,6 +2442,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable asianfoodicon
+drawable asianfoodpic
 drawable avd_hide_password
 drawable avd_show_password
 drawable bell
@@ -2454,11 +2456,16 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable chat
+drawable chinesefoodpic
+drawable chungnamicon
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dessertfoodpic
+drawable desserticon
+drawable gangwonicon
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2471,6 +2478,11 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable iconsearch
+drawable jejuicon
+drawable jeonlaicon
+drawable koreanfoodpic
+drawable kyeongkiicon
+drawable kyeongsangicon
 drawable listup
 drawable littlebusan
 drawable littlechinesefood
@@ -2524,6 +2536,8 @@ drawable notify_panel_notification_icon_bg
 drawable person
 drawable round_backgroud_border_black
 drawable round_backgroud_border_black_button
+drawable snackbaricon
+drawable snackbarpic
 drawable test_custom_background
 drawable test_level_drawable
 drawable textview_edge
@@ -2531,6 +2545,7 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tunaimg
 drawable tunatext
+drawable westernfoodpic
 id ALT
 id BOTTOM_END
 id BOTTOM_START
