@@ -52,13 +52,15 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tunaimg"/>
-            <ImageView
+                android:src="@drawable/dessertfoodpic"/>
+            <TextView
                 android:layout_gravity="bottom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:src="@drawable/tunatext"/>
+                android:text="달콤한 후식은 어때요?"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
         </FrameLayout>
 
         <ListView

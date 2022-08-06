@@ -52,10 +52,10 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="60dp"
         android:layout_marginTop="180dp"
-        android:text="서울 맛집으로\n떠나볼까요?"
+        android:text="다양한 맛집으로\n떠나볼까요?"
+        android:textColor="@color/black"
         android:textSize="25dp"
-        android:textStyle="bold"
-        android:textColor="@color/black"></TextView>
+        android:textStyle="bold"></TextView>
 
     //버튼들의 레이아웃
 
@@ -177,6 +177,26 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:src="@drawable/littlechinesefood"></ImageView>
+    <ImageView
+        android:layout_marginTop="410dp"
+        android:layout_marginLeft="330dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/asianfoodicon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/snackbaricon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="330dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/desserticon"></ImageView>
 
 
 </RelativeLayout>

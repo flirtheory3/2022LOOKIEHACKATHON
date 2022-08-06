@@ -52,13 +52,16 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tunaimg"/>
-            <ImageView
+                android:src="@drawable/chinesefoodpic"/>
+
+            <TextView
                 android:layout_gravity="bottom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:src="@drawable/tunatext"/>
+                android:text="중국의 맛을\n느껴볼까요?"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
         </FrameLayout>
 
         <ListView

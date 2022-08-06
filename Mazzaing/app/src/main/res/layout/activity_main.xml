@@ -201,5 +201,46 @@
         android:layout_height="40dp"
         android:src="@drawable/littlebusan"></ImageView>
 
+    <ImageView
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/kyeongkiicon"></ImageView>
+    <ImageView
+        android:layout_marginTop="410dp"
+        android:layout_marginLeft="320dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/kyeongsangicon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/jeonlaicon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="320dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/chungnamicon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/jejuicon"></ImageView>
+
+    <ImageView
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="320dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/gangwonicon"></ImageView>
+
 
 </RelativeLayout>
