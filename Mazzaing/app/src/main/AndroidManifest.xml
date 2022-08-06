@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mazzaing">
         <activity
+            android:name=".PostRead"
+            android:exported="false" />
+        <activity
+            android:name=".PostListDessert"
+            android:exported="false" />
+        <activity
+            android:name=".PostListSnackbar"
+            android:exported="false" />
+        <activity
+            android:name=".PostListAsian"
+            android:exported="false" />
+        <activity
+            android:name=".PostListChinese"
+            android:exported="false" />
+        <activity
+            android:name=".PostListWestern"
+            android:exported="false" />
+        <activity
             android:name=".PostList"
             android:exported="false" />
         <activity
