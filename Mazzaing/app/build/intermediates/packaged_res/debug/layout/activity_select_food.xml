@@ -17,7 +17,7 @@
 
         //상단바
         <ImageView
-            android:id="@+id/matTextHomeButtonLocation"
+            android:id="@+id/mazzainglogo"
             android:layout_marginLeft="20dp"
             android:layout_width="100dp"
             android:layout_height="100dp"

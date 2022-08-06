@@ -10,6 +10,11 @@ class SelectFood : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_select_food)
 
+        mazzainglogo.setOnClickListener{
+            val intent = Intent(this@SelectFood, MainActivity::class.java)
+            startActivity(intent)
+        }
+
         koreanFoodButton.setOnClickListener {
             val intent = Intent(this@SelectFood, PostList::class.java)
             startActivity(intent)

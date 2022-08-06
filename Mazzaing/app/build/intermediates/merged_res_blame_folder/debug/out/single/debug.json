@@ -12,12 +12,12 @@
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\kyeongkiicon.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_snackbaricon.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\snackbaricon.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_backgroud_border_black.xml.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\round_backgroud_border_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_snackbaricon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\snackbaricon.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_asianfoodicon.png.flat",
@@ -56,12 +56,12 @@
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\mainfoodimage.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_snackbarpic.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\snackbarpic.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_post_list_chinese.xml.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\layout\\activity_post_list_chinese.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_snackbarpic.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\snackbarpic.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_littlewesternfood.png.flat",
