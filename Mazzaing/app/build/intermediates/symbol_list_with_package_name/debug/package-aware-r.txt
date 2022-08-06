@@ -2526,6 +2526,8 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable tunaimg
+drawable tunatext
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2597,6 +2599,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id alarm
 id alertTitle
 id aligned
 id all
@@ -2785,6 +2788,7 @@ id line3
 id linear
 id listMode
 id list_item
+id lists
 id masked
 id matTextHomeButtonLocation
 id matTextHomeButtonMain
@@ -2810,6 +2814,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id mazzainglogo
 id message
 id middle
 id mini
@@ -3122,7 +3127,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_createpost
 layout activity_main
+layout activity_post_list
 layout activity_select_food
 layout custom_dialog
 layout design_bottom_navigation_item

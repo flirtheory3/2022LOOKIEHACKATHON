@@ -22,6 +22,9 @@ drawable mattext
 drawable person
 drawable round_backgroud_border_black
 drawable round_backgroud_border_black_button
+drawable tunaimg
+drawable tunatext
+id alarm
 id asianFoodButton
 id busan_btn
 id chineseFoodButton
@@ -33,12 +36,16 @@ id jeonla_btn
 id koreanFoodButton
 id kyeongki_btn
 id kyeongsang_btn
+id lists
 id matTextHomeButtonLocation
 id matTextHomeButtonMain
+id mazzainglogo
 id seoul_btn
 id snack_barButton
 id westernFoodButton
+layout activity_createpost
 layout activity_main
+layout activity_post_list
 layout activity_select_food
 mipmap ic_launcher
 mipmap ic_launcher_round
