@@ -11,7 +11,7 @@
 9-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:5:5-48:19
+11-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:5:5-52:19
 12        android:allowBackup="true"
 12-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -29,98 +29,107 @@
 20        android:theme="@style/Theme.Mazzaing" >
 20-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:11:9-46
 21        <activity
-21-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:12:9-14:40
-22            android:name="com.example.mazzaing.PostRead"
-22-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:13:13-37
-23            android:exported="false" />
-23-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:14:13-37
-24        <activity
-24-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:15:9-17:40
-25            android:name="com.example.mazzaing.PostListDessert"
-25-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:16:13-44
-26            android:exported="false" />
-26-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:17:13-37
-27        <activity
-27-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:18:9-20:40
-28            android:name="com.example.mazzaing.PostListSnackbar"
-28-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:19:13-45
-29            android:exported="false" />
-29-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:20:13-37
-30        <activity
-30-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:21:9-23:40
-31            android:name="com.example.mazzaing.PostListAsian"
-31-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:22:13-42
-32            android:exported="false" />
-32-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:23:13-37
-33        <activity
-33-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:24:9-26:40
-34            android:name="com.example.mazzaing.PostListChinese"
-34-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:25:13-44
-35            android:exported="false" />
-35-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:26:13-37
-36        <activity
-36-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:27:9-29:40
-37            android:name="com.example.mazzaing.PostListWestern"
-37-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:28:13-44
-38            android:exported="false" />
-38-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:29:13-37
-39        <activity
-39-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:30:9-32:40
-40            android:name="com.example.mazzaing.PostList"
-40-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:31:13-37
-41            android:exported="false" />
-41-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:32:13-37
-42        <activity
-42-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:33:9-35:40
-43            android:name="com.example.mazzaing.Createpost"
-43-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:34:13-39
-44            android:exported="false" />
-44-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:35:13-37
-45        <activity
-45-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:36:9-38:40
-46            android:name="com.example.mazzaing.SelectFood"
-46-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:37:13-39
-47            android:exported="false" />
-47-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:38:13-37
-48        <activity
-48-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:39:9-47:20
-49            android:name="com.example.mazzaing.MainActivity"
-49-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:40:13-41
-50            android:exported="true" >
-50-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:41:13-36
-51            <intent-filter>
-51-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:42:13-46:29
-52                <action android:name="android.intent.action.MAIN" />
-52-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:43:17-69
-52-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:43:25-66
-53
-54                <category android:name="android.intent.category.LAUNCHER" />
-54-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:45:17-77
-54-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:45:27-74
-55            </intent-filter>
-56        </activity>
-57
-58        <provider
-58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-59            android:name="androidx.startup.InitializationProvider"
-59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-60            android:authorities="com.example.mazzaing.androidx-startup"
-60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-61            android:exported="false" >
-61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-62            <meta-data
-62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-64                android:value="androidx.startup" />
-64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-65            <meta-data
-65-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-67                android:value="androidx.startup" />
-67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-68        </provider>
-69    </application>
-70
-71</manifest>
+21-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:12:9-20:20
+22            android:name="com.example.mazzaing.SplashActivity"
+22-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:13:13-43
+23            android:exported="true"
+23-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:15:13-36
+24            android:theme="@style/apptheme" >
+24-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:14:13-44
+25            <intent-filter>
+25-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:16:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:18:17-77
+28-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:21:9-23:40
+32            android:name="com.example.mazzaing.PostRead"
+32-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:22:13-37
+33            android:exported="false" />
+33-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:23:13-37
+34        <activity
+34-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:24:9-26:40
+35            android:name="com.example.mazzaing.PostListDessert"
+35-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:25:13-44
+36            android:exported="false" />
+36-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:26:13-37
+37        <activity
+37-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:27:9-29:40
+38            android:name="com.example.mazzaing.PostListSnackbar"
+38-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:28:13-45
+39            android:exported="false" />
+39-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:29:13-37
+40        <activity
+40-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:30:9-32:40
+41            android:name="com.example.mazzaing.PostListAsian"
+41-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:31:13-42
+42            android:exported="false" />
+42-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:32:13-37
+43        <activity
+43-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:33:9-35:40
+44            android:name="com.example.mazzaing.PostListChinese"
+44-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:34:13-44
+45            android:exported="false" />
+45-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:35:13-37
+46        <activity
+46-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:36:9-38:40
+47            android:name="com.example.mazzaing.PostListWestern"
+47-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:37:13-44
+48            android:exported="false" />
+48-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:38:13-37
+49        <activity
+49-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:39:9-41:40
+50            android:name="com.example.mazzaing.PostList"
+50-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:40:13-37
+51            android:exported="false" />
+51-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:41:13-37
+52        <activity
+52-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:42:9-44:40
+53            android:name="com.example.mazzaing.Createpost"
+53-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:43:13-39
+54            android:exported="false" />
+54-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:44:13-37
+55        <activity
+55-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:45:9-47:40
+56            android:name="com.example.mazzaing.SelectFood"
+56-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:46:13-39
+57            android:exported="false" />
+57-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:47:13-37
+58        <activity
+58-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:48:9-51:20
+59            android:name="com.example.mazzaing.MainActivity"
+59-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:49:13-41
+60            android:exported="false" >
+60-->C:\Users\user\Desktop\2022LOOKIEHACKATHON\Mazzaing\app\src\main\AndroidManifest.xml:50:13-37
+61        </activity>
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+65            android:authorities="com.example.mazzaing.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+73        </provider>
+74    </application>
+75
+76</manifest>

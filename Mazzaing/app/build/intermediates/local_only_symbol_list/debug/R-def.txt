@@ -1,6 +1,10 @@
 R_DEF: Internal format may change without notice
 local
+color background
 color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
 color purple_200
 color purple_500
 color purple_700
@@ -38,6 +42,7 @@ drawable round_backgroud_border_black
 drawable round_backgroud_border_black_button
 drawable snackbaricon
 drawable snackbarpic
+drawable splash_logo
 drawable textview_edge
 drawable tunaimg
 drawable tunatext
@@ -75,8 +80,10 @@ layout activity_post_list_snackbar
 layout activity_post_list_western
 layout activity_post_read
 layout activity_select_food
+layout activity_splash
 layout list_model
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 style Theme.Mazzaing
+style apptheme
