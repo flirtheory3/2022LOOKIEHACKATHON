@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/drawable/textview_edge.xml" value="0.1235" />
         <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_createpost.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list_asian.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list_chinese.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list_dessert.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list_snackbar.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_list_western.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_post_read.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/activity_select_food.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Desktop/2022LOOKIEHACKATHON/Mazzaing/app/src/main/res/layout/list_model.xml" value="0.264" />
       </map>
     </option>
   </component>

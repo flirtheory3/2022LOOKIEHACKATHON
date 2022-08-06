@@ -8,8 +8,10 @@ color teal_200
 color teal_700
 color white
 drawable bell
+drawable chat
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable iconsearch
 drawable listup
 drawable littlebusan
 drawable littlechinesefood
@@ -22,6 +24,7 @@ drawable mattext
 drawable person
 drawable round_backgroud_border_black
 drawable round_backgroud_border_black_button
+drawable textview_edge
 drawable tunaimg
 drawable tunatext
 id alarm
@@ -46,7 +49,14 @@ id westernFoodButton
 layout activity_createpost
 layout activity_main
 layout activity_post_list
+layout activity_post_list_asian
+layout activity_post_list_chinese
+layout activity_post_list_dessert
+layout activity_post_list_snackbar
+layout activity_post_list_western
+layout activity_post_read
 layout activity_select_food
+layout list_model
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

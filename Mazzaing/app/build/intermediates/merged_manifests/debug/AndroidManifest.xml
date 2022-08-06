@@ -19,6 +19,24 @@
         android:testOnly="true"
         android:theme="@style/Theme.Mazzaing" >
         <activity
+            android:name="com.example.mazzaing.PostRead"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.PostListDessert"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.PostListSnackbar"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.PostListAsian"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.PostListChinese"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.PostListWestern"
+            android:exported="false" />
+        <activity
             android:name="com.example.mazzaing.PostList"
             android:exported="false" />
         <activity
