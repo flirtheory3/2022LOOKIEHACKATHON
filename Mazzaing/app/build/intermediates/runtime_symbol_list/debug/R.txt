@@ -2634,6 +2634,7 @@ int id anticipate 0x7f080050
 int id arc 0x7f080051
 int id asConfigured 0x7f080052
 int id asianFoodButton 0x7f080053
+int id asianFoodListView 0x7f0801fd
 int id async 0x7f080054
 int id auto 0x7f080055
 int id autoComplete 0x7f080056
@@ -2667,6 +2668,7 @@ int id chains 0x7f080071
 int id checkbox 0x7f080072
 int id checked 0x7f080073
 int id chineseFoodButton 0x7f080074
+int id chineseFoodListView 0x7f0801fe
 int id chip 0x7f080075
 int id chip1 0x7f080076
 int id chip2 0x7f080077
@@ -2709,6 +2711,7 @@ int id design_menu_item_action_area_stub 0x7f08009b
 int id design_menu_item_text 0x7f08009c
 int id design_navigation_view 0x7f08009d
 int id dessertButton 0x7f08009e
+int id dessertFoodListView 0x7f0801ff
 int id dialog_button 0x7f08009f
 int id dimensions 0x7f0800a0
 int id direct 0x7f0800a1
@@ -2958,6 +2961,7 @@ int id skipCollapsed 0x7f080194
 int id skipped 0x7f080195
 int id slide 0x7f080196
 int id snack_barButton 0x7f080197
+int id snackbarListView 0x7f080200
 int id snackbar_action 0x7f080198
 int id snackbar_text 0x7f080199
 int id snap 0x7f08019a
@@ -3051,6 +3055,7 @@ int id visible 0x7f0801f1
 int id visible_removing_fragment_view_tag 0x7f0801f2
 int id west 0x7f0801f3
 int id westernFoodButton 0x7f0801f4
+int id westernFoodListView 0x7f080201
 int id withText 0x7f0801f5
 int id withinBounds 0x7f0801f6
 int id wrap 0x7f0801f7

@@ -49,11 +49,14 @@ drawable tunatext
 drawable westernfoodpic
 id alarm
 id asianFoodButton
+id asianFoodListView
 id busan_btn
 id chineseFoodButton
+id chineseFoodListView
 id chungcheong_btn
 id content
 id dessertButton
+id dessertFoodListView
 id gangwon_btn
 id jeju_btn
 id jeonla_btn
@@ -68,8 +71,10 @@ id name
 id postDate
 id seoul_btn
 id snack_barButton
+id snackbarListView
 id title
 id westernFoodButton
+id westernFoodListView
 layout activity_createpost
 layout activity_main
 layout activity_post_list
