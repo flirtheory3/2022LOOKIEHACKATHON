@@ -17,7 +17,7 @@
 
         //상단바
         <ImageView
-            android:id="@+id/matTextHomeButton"
+            android:id="@+id/matTextHomeButtonMain"
             android:layout_marginLeft="20dp"
             android:layout_width="100dp"
             android:layout_height="100dp"
@@ -102,6 +102,7 @@
             android:layout_marginTop="21dp">
 
             <Button
+                android:id="@+id/kyeongki_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="25dp"
@@ -112,6 +113,7 @@
                 android:padding="15dp"></Button>
 
             <Button
+                android:id="@+id/kyeongsang_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="60dp"
@@ -128,6 +130,7 @@
             android:layout_marginTop="21dp">
 
             <Button
+                android:id="@+id/jeonla_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="25dp"
@@ -138,6 +141,7 @@
                 android:padding="15dp"></Button>
 
             <Button
+                android:id="@+id/chungcheong_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="60dp"
@@ -154,6 +158,7 @@
             android:layout_marginTop="21dp">
 
             <Button
+                android:id="@+id/jeju_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="25dp"
@@ -164,6 +169,7 @@
                 android:padding="15dp"></Button>
 
             <Button
+                android:id="@+id/gangwon_btn"
                 android:layout_width="150dp"
                 android:layout_height="79dp"
                 android:layout_marginLeft="60dp"

@@ -2526,6 +2526,8 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable tunaimg
+drawable tunatext
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2597,6 +2599,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id alarm
 id alertTitle
 id aligned
 id all
@@ -2608,6 +2611,7 @@ id antiClockwise
 id anticipate
 id arc
 id asConfigured
+id asianFoodButton
 id async
 id auto
 id autoComplete
@@ -2640,12 +2644,14 @@ id chain2
 id chains
 id checkbox
 id checked
+id chineseFoodButton
 id chip
 id chip1
 id chip2
 id chip3
 id chip_group
 id chronometer
+id chungcheong_btn
 id circle_center
 id clear_text
 id clip_horizontal
@@ -2680,6 +2686,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dessertButton
 id dialog_button
 id dimensions
 id direct
@@ -2731,6 +2738,7 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
+id gangwon_btn
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2763,8 +2771,13 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id jeju_btn
+id jeonla_btn
 id jumpToEnd
 id jumpToStart
+id koreanFoodButton
+id kyeongki_btn
+id kyeongsang_btn
 id labeled
 id layout
 id left
@@ -2775,8 +2788,10 @@ id line3
 id linear
 id listMode
 id list_item
+id lists
 id masked
-id matTextHomeButton
+id matTextHomeButtonLocation
+id matTextHomeButtonMain
 id match_constraint
 id match_parent
 id material_clock_display
@@ -2799,6 +2814,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id mazzainglogo
 id message
 id middle
 id mini
@@ -2917,6 +2933,7 @@ id sin
 id skipCollapsed
 id skipped
 id slide
+id snack_barButton
 id snackbar_action
 id snackbar_text
 id snap
@@ -3009,6 +3026,7 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
+id westernFoodButton
 id withText
 id withinBounds
 id wrap
@@ -3109,7 +3127,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_createpost
 layout activity_main
+layout activity_post_list
 layout activity_select_food
 layout custom_dialog
 layout design_bottom_navigation_item

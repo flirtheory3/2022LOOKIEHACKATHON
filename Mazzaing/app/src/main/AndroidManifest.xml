@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mazzaing">
         <activity
+            android:name=".PostList"
+            android:exported="false" />
+        <activity
+            android:name=".Createpost"
+            android:exported="false" />
+        <activity
             android:name=".SelectFood"
             android:exported="false" />
         <activity

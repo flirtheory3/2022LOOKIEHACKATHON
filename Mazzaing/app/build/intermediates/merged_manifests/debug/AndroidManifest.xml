@@ -19,6 +19,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Mazzaing" >
         <activity
+            android:name="com.example.mazzaing.PostList"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mazzaing.Createpost"
+            android:exported="false" />
+        <activity
             android:name="com.example.mazzaing.SelectFood"
             android:exported="false" />
         <activity

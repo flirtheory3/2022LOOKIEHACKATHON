@@ -16,6 +16,10 @@
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_tunatext.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\tunatext.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -88,6 +92,10 @@
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_tunaimg.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\tunaimg.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
@@ -100,12 +108,16 @@
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\person.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_littlebusan.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\littlebusan.png"
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_post_list.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\layout\\activity_post_list.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_select_food.xml.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\layout\\activity_select_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_littlebusan.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\littlebusan.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -114,5 +126,9 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\drawable_locationmainimage.png.flat",
         "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\drawable\\locationmainimage.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_createpost.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\2022LOOKIEHACKATHON\\Mazzaing\\app\\src\\main\\res\\layout\\activity_createpost.xml"
     }
 ]
