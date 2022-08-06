@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bell
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable listup
+drawable littlebusan
+drawable littlechinesefood
+drawable littlekoreanfood
+drawable littleseoul
+drawable littlewesternfood
+drawable locationmainimage
+drawable mainfoodimage
+drawable mattext
+drawable person
+drawable round_backgroud_border_black
+drawable round_backgroud_border_black_button
+id busan_btn
+id matTextHomeButton
+id seoul_btn
+layout activity_main
+layout activity_select_food
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Mazzaing
