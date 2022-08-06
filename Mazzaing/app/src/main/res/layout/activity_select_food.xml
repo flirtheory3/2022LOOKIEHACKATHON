@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectFood">
+
+
+    //상단
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="#f49034"
+        android:orientation="horizontal">
+
+        //상단바
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/mattext"></ImageView>
+
+        <ImageView
+            android:layout_marginLeft="190dp"
+            android:layout_width="30dp"
+            android:layout_height="100dp"
+            android:src="@drawable/bell"></ImageView>
+
+        <ImageView
+            android:layout_marginLeft="15dp"
+            android:layout_width="45dp"
+            android:layout_height="100dp"
+            android:src="@drawable/listup"></ImageView>
+
+    </LinearLayout>
+
+    //중단이미지
+
+    <ImageView
+        android:layout_width="330dp"
+        android:layout_height="180dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/round_backgroud_border_black"
+        android:src="@drawable/locationmainimage"></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="180dp"
+        android:text="서울 맛집으로\n떠나볼까요?"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"></TextView>
+
+    //버튼들의 레이아웃
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="290dp"
+        android:orientation="vertical">
+
+        //버튼들
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="한식"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="60dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="양식"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp">
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="중식"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="60dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="아시안"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp">
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="분식"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="79dp"
+                android:layout_marginLeft="60dp"
+                android:background="@drawable/round_backgroud_border_black_button"
+                android:gravity="center_vertical|left"
+                android:text="디저트"
+                android:textSize="25dp"
+                android:padding="15dp"></Button>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></RelativeLayout>
+
+
+    </LinearLayout>
+
+    //버튼의 이미지
+    <ImageView
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/littlekoreanfood"></ImageView>
+    <ImageView
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="320dp"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:src="@drawable/littlewesternfood"></ImageView>
+    <ImageView
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/littlechinesefood"></ImageView>
+
+
+</RelativeLayout>
